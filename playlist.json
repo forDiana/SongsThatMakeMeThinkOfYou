@@ -1,12 +1,11 @@
 {
   "songs": [
-    {"artist": "Lucius", "title": "Million Dollar Secret", "mp3": "songs/01 - Million Dollar Secret.mp3"},
-    {"artist": "Discovery", "title": "I Wanna Be Your Boyfriend", "mp3": "songs/04 - I Wanna Be Your Boyfriend (feat. Angel Deradoorian).mp3"},
-    {"artist": "Modern Lovers", "title": "Girlfriend", "mp3": "songs/08 - Girlfriend.mp3"},
-    {"artist": "Sweet Spirit", "title": "If You Wanna", "mp3": "songs/07 - If You Wanna.mp3"},
-    {"artist": "The Magnetic Fields", "title": "The Luckiest Guy on the Lower East Side", "mp3": "songs/08 - The Luckiest Guy On The Lower East Side.mp3"},
-    {"artist": "Darwin Deez", "title": "Radar Detector", "mp3": "songs/01 - Radar Detector.mp3"},
-    {"artist": "Caribou", "title": "Can't do Without You", "mp3": "songs/01 - Can't Do Without You.mp3"},
-    {"artist": "Neneh Cherry & The Thing", "title": "Dream Baby Dream", "mp3": "songs/02 - Dream Baby Dream.mp3"}
+    {"artist": "Ella Fitzgerald & Louis Armstrong", "title": "Dream a Little Dream of Me", "mp3": "songs/02 - Dream A Little Dream Of Me.mp3"},
+    {"artist": "Girlpool", "title": "Cut Your Bangs", "mp3": "songs/02 - Cut Your Bangs.mp3"},
+    {"artist": "Phil Pickens", "title": "Streets of London", "mp3": "songs/01 - Streets of London.mp3"},
+    {"artist": "Angel Olsen", "title": "Shut Up Kiss Me", "mp3": "songs/03 - Shut Up Kiss Me.mp3"},
+    {"artist": "Fiona Applie", "title": "Hot Knife", "mp3": "songs/10 - Hot Knife.mp3"},
+    {"artist": "The Cranberries", "title": "Zombie", "mp3": "songs/03 - Zombie.mp3"},
+    {"artist": "Patti Smith", "title": "Because the Night", "mp3": "songs/05 - Because the Night.mp3"}
   ]
 }
