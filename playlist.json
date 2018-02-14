@@ -1,7 +1,12 @@
 {
   "songs": [
-    {"artist": "Dave Howes", "title": "Roméo Alpha", "mp3": "http://archive.org/download/RomeoAlpha/RomeoAlpha.mp3"},
-    {"artist": "Dhalius", "title": "Yeah", "mp3": "http://archive.org/download/DhaliusMusicCollection2002-2010/YEAH.mp3"},
-    {"artist": "Caribou", "title": "Can't Do Without You", "mp3": "songs/01 - Can't Do Without You.mp3"}
+    {"artist": "Lucius", "title": "Million Dollar Secret", "mp3": "songs/01 - Million Dollar Secret.mp3"},
+    {"artist": "Discovery", "title": "I Wanna Be Your Boyfriend", "mp3": "songs/04 - I Wanna Be Your Boyfriend (feat. Angel Deradoorian).mp3"}
+    {"artist": "Modern Lovers", "title": "Girlfriend", "mp3": "songs/08 - Girlfriend.mp3"},
+    {"artist": "Sweet Spirit", "title": "If You Wanna", "mp3": "songs/07 - If You Wanna.mp3"},
+    {"artist": "The Magnetic Fields", "title": "The Luckiest Guy on the Lower East Side", "mp3": "songs/08 - The Luckiest Guy On The Lower East Side.mp3"},
+    {"artist": "Darwin Deez", "title": "Radar Detector", "mp3": "songs/01 - Radar Detector.mp3"},
+    {"artist": "Caribou", "title": "Can't do Without You", "mp3": "songs/01 - Can't Do Without You.mp3"},
+    {"artist": "Neneh Cherry & The Thing", "title": "Dream Baby Dream", "mp3": "songs/02 - Dream Baby Dream.mp3"}
   ]
 }
